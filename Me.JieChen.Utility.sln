@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientAssertionClient", "ClientAssertionClient\ClientAssertionClient.csproj", "{CE604393-49EB-4129-99ED-B174785B7666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE604393-49EB-4129-99ED-B174785B7666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE604393-49EB-4129-99ED-B174785B7666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE604393-49EB-4129-99ED-B174785B7666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE604393-49EB-4129-99ED-B174785B7666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E835952-4D8F-41B6-82D8-E9A640495B10}
+	EndGlobalSection
+EndGlobal
